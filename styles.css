@@ -5,7 +5,7 @@ body {
 header{
 	text-align: center;
 	background: #DE1B8D;
-	color:	green;
+	color:	white;
 	background: url(images/background.jpg);
 	background-size: cover;
 }
@@ -32,7 +32,8 @@ img{
 	color:	orange;
 }
 .padded {
-	padding: 50px 100px;
+	padding: 10px 10px;
+	text-align: center;
 }
 .contact{
 	text_align: center;
@@ -41,11 +42,13 @@ img{
 }
 .contact h2 {
 	color: #FFF;
+	text-align: center;
 
 }
 .contact img{
-	width: 100px;
-	margin: 10px;
+	text-align: center;
+	width: 50px;
+	margin: 5px;
 	border-radius: 50%;
 	border: none;
 }
@@ -53,11 +56,11 @@ img{
 	opacity: 0.5;
 }
 ul.websites{
-	padding: 0;
+	#padding: 0;
 }
 ul.websites li{
-	list_style: none;
-	display: inline-block;
+	#list_style: none;
+	#display: inline-block;
 }
 .websites a {
 	background: #38A88F;
